@@ -12,3 +12,100 @@ h1{
 }
 
 
+
+.introduction-section p{
+
+    text-align: justify;
+    font-size: 20px;
+
+}
+
+
+.introduction-section button{
+
+ background-color: brown;
+ border-radius: 10px;
+ 
+
+
+}
+
+.introduction-section button a{
+
+   text-decoration: none;
+   color: white;
+   font-weight: bold;
+    
+   
+   
+   }
+
+
+
+   .introduction_inner {
+    background: url(../images/army.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 130px 0px;
+    color: white;
+}
+
+
+
+.photograph_inner {
+    background: url(../images/fighter1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 130px 0px;
+    color: white;
+}
+
+
+.contact_inner {
+    background: url(../images/fighter1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 130px 0px;
+    color: white;
+}
+
+.doccument_inner {
+    background: url(../images/fighter1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 130px 0px;
+    color: white;
+}
+
+.interview_inner {
+    background: url(../images/bullet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 130px 0px;
+    color: white;
+}
+
+
+
+.document-section .fa-regular{
+
+    font-weight: normal !important;
+    font-size: 15px !important;
+}
+
+.document-section .fa-solid{
+
+    font-weight: normal !important;
+    font-size: 15px !important;
+}
+
+.document-section .card-title{
+
+   text-transform: uppercase !important;
+   color: red !important;
+}
