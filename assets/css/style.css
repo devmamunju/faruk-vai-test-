@@ -109,3 +109,25 @@ h1{
    text-transform: uppercase !important;
    color: red !important;
 }
+
+
+
+/***********************************/
+
+#clock{
+
+    font-size: 30px;
+    border: 3px solid black;
+    display: inline;
+    padding: 10px;
+    background: aqua;
+    border-radius: 10px;
+    font-weight: bold;
+    
+
+
+}
+
+.move{
+    text-align: center;
+}
